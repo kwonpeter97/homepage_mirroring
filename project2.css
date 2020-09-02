@@ -1,0 +1,88 @@
+.back{
+    background-image: url(http://demo.highhay.com/landeux/img/bg-img.jpg);
+    height: 1000px;
+}
+
+.logo_total{
+    margin: 30px;
+    margin-top: 50px;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 8fr
+}
+
+.top-menu{
+    display: inline-flex;
+    display: grid;
+    grid-template-columns: 9fr 1fr 1fr 1fr 1fr 1.5fr 1.5fr;
+    align-items: center;
+    color: white;
+    font-size:20px;
+}
+
+.bic-title{
+    color: white;
+    padding-left:200px;
+    font-size:45px;
+}
+
+.small-title{
+    color: white;
+    padding-left:200px;
+    font-size:30px;
+    padding-bottom:20px;
+}
+
+.info{
+    display: grid;
+    grid-template-columns: 1fr 1fr 8fr;
+    padding-left:200px;
+    color: white;
+    margin-top:15px;
+    font-size:20px;
+}
+
+.get{
+    color:orange;
+    text-align:center;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    padding: 5px;
+    margin:5px;
+    border-radius: 40px;
+}
+
+.feature{
+    border-radius: 2px;
+    text-align:center;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    padding: 5px;
+    margin:5px;
+    border-radius: 40px;
+}
+
+.menu6{
+    color:orange;
+    border-radius: 2px;
+    text-align:center;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    padding: 5px;
+    margin:5px;
+    border-radius: 40px;
+}
+
+.menu5{
+    border-radius: 2px;
+    text-align:center;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    padding: 5px;
+    margin:5px;
+    border-radius: 40px;
+}
