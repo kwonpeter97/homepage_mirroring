@@ -1,0 +1,262 @@
+.back{
+    background-image: url(http://demo.highhay.com/landeux/img/bg-img.jpg);
+    height: 1000px;
+}
+
+.logo_total{
+    margin: 30px;
+    margin-top: 50px;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 8fr
+}
+
+.top-menu{
+    display: inline-flex;
+    display: grid;
+    grid-template-columns: 9fr 1fr 1fr 1fr 1fr 1.5fr 1.5fr;
+    align-items: center;
+    color: white;
+    font-size:20px;
+}
+
+.bic-title{
+    color: white;
+    padding-left:200px;
+    font-size:45px;
+}
+
+.small-title{
+    color: white;
+    padding-left:200px;
+    font-size:30px;
+    padding-bottom:20px;
+}
+
+.info{
+    display: grid;
+    grid-template-columns: 1fr 1fr 8fr;
+    padding-left:200px;
+    color: white;
+    margin-top:15px;
+    font-size:20px;
+}
+
+.get{
+    color:orange;
+    text-align:center;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    width: 10%;
+    border-radius: 40px;
+    width: 120px;
+    padding: 5px;
+    margin:5px;
+}
+
+.feature{
+    border-radius: 2px;
+    text-align:center;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    padding: 5px;
+    margin:5px;
+    border-radius: 40px;
+}
+
+.menu6{
+    color:orange;
+    border-radius: 2px;
+    text-align:center;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    padding: 5px;
+    margin:5px;
+    border-radius: 40px;
+}
+
+.menu5{
+    border-radius: 2px;
+    text-align:center;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    padding: 5px;
+    margin:5px;
+    border-radius: 40px;
+}
+
+.header{
+    text-align: center;
+}
+
+.middle{
+    text-align: center;
+}
+
+.option1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 30px;
+}
+
+.option1-1{
+    text-align: center;
+    border-style: solid;
+    border-width: 0.5px;
+    padding: 20px;
+    margin: 50px;
+    margin-left: 150px;
+    margin-right: 0px;
+    
+}
+
+.option1-2{
+    text-align: center;
+    border-style: solid;
+    border-width: 0.5px;
+    padding: 20px;
+    margin: 50px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.option1-1:hover, .option1-2:hover, .option1-3:hover{
+    box-shadow: 60px -16px teal;
+    transition: 1s;
+}
+
+.option1-3{
+    text-align: center;
+    border-style: solid;
+    border-width: 0.5px;
+    padding: 20px;
+    margin: 50px;
+    margin-right: 150px;
+    margin-left: 0px;
+}
+
+.now{
+    display: block;
+    width: 210px;
+    padding: 20px;
+    border-style: solid;
+    border-color: tomato;
+    color: black;
+    border-radius: 40px;
+    font-size: 23px;
+    margin: 500px;
+}
+
+.phone{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+}
+
+.display{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+}
+
+.autumn{
+    background-image: url(http://demo.highhay.com/landeux/img/bg-img2.jpg);
+    height: auto;
+}
+
+.autumn_head{
+    text-align: center;
+    color: white;
+}
+
+.option2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 30px;
+    color: white;
+}
+
+.option2-1{
+    text-align: center;
+    border-width: 0.5px;
+    padding: 20px;
+    margin: 50px;
+    margin-left: 150px;
+    margin-right: 0px;
+    
+}
+
+.option2-2{
+    text-align: center;
+    border-width: 0.5px;
+    padding: 20px;
+    margin: 50px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.option2-3{
+    text-align: center;
+    border-width: 0.5px;
+    padding: 20px;
+    margin: 50px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.option3{
+    display: grid;
+    grid-template-columns: 3fr 1fr 3fr;
+    font-size: 20px;
+}
+
+.option3-1{
+    text-align: center;
+    margin-left: 730px;
+    padding: 12px;
+    width: 110px;
+    border-style: solid;
+    border-color: tomato;
+    color: black;
+    border-radius: 40px;
+}
+
+.option3-2{
+    text-align: center;
+    margin-left: 10px;
+    padding: 12px;
+    width: 90px;
+    border-style: solid;
+    border-color: tomato;
+    color: black;
+    border-radius: 40px;
+}
+
+.option3-3{
+    text-align: center;
+    margin-right: 730px;
+    padding: 12px;
+    width: 110px;
+    border-style: solid;
+    border-color: tomato;
+    color: black;
+    border-radius: 40px;
+}
+
+.option4{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 50px;
+}
+
+.option4-1{
+    margin-left: 170px;
+}
+
+.option4-2{
+    margin-left: 160px;
+}
